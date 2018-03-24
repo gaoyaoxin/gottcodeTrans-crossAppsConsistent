@@ -1,4 +1,5 @@
 # gottcodeTrans-crossAppsConsistent
+https://www.transifex.com/gottcode/
 - [ ] Connectagram
 - [x] CuteMaze
 - [x] FocusWriter (co)
