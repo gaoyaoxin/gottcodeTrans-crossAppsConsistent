@@ -2,14 +2,14 @@
 
 |||
 -|-
-&About|&关于
-&Details|&本局游戏详情
-&Game|&游戏
-&Help|&帮助
-&New|&新游戏
-&Restart Game|&重新开始
-&Settings|&设置
-<System Language>|<系统语言>
+About|关于
+Details|本局游戏详情
+Game|游戏
+Help|帮助
+New|新游戏
+Restart Game|重新开始
+Settings|设置
+\<System Language>|<系统语言>
 About &Qt|关于 &Qt
 About Peg-E|关于 Peg-E
 Application &Language...|程序 &语言...
