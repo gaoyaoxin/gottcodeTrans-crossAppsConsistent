@@ -2,6 +2,8 @@
 
 |||
 -|-
+Scores|分数榜
+Score|分数
 Success|恭喜你，你赢了！
 Game Over|游戏结束
 Select application language:|选择本游戏的语言:
