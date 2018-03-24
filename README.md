@@ -27,6 +27,6 @@ Score|分数
 Scores|分数榜
 Select application language:|选择本游戏的语言:
 Settings|设置
-Success|恭喜你，你赢了！
+Success|恭喜你，你赢了！ / 恭喜，你成功了！
 Used under the <a href=%1>LGPL 3</a> license|在 <a href=%1>LGPL 3</a> 协议下授权用户使用
 Uses icons from the <a href=%1>Oxygen</a> icon theme|使用 <a href=%1>Oxygen</a> 风格图标
