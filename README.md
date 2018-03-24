@@ -18,7 +18,7 @@ Help|帮助
 New|新游戏
 Note|提示
 Peg elimination game|一款孔明棋游戏
-Please restart this application for the change in language to take effect.|请重启本程序使语言设置生效
+Please restart this application for the change in language to take effect.|请重启本程序使语言设置生效。
 Question|问题
 Quit|退出程序
 Released under the <a href=%1>GPL 3</a> license|基于 <a href=%1>GPL 3</a> 协议发布
