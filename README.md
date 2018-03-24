@@ -4,7 +4,7 @@
 -|-
 Success|恭喜你，你赢了！
 Game Over|游戏结束
-Select application language:|选择本游戏的语言
+Select application language:|选择本游戏的语言:
 &lt;System Language&gt;|<系统语言>
 Note|提示
 Please restart this application for the change in language to take effect.|请重启本程序使语言设置生效
