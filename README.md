@@ -1,4 +1,15 @@
 # gottcodeTrans-crossAppsConsistent
+- [ ] Connectagram
+- [x] CuteMaze
+- [x] FocusWriter (co)
+- [x] Gottet
+- [x] Hexalate
+- [ ] Kapow
+- [ ] NovProg
+- [x] Peg-E
+- [ ] Simsu
+- [ ] Tanglet
+- [ ] Tetzle
 
 |||
 -|-
