@@ -23,7 +23,6 @@ Application &Language...|程序 &语言...
 Copyright &copy; 2009-%1 Graeme Gott|版权所有 &copy; 2009-%1 Graeme Gott
 Custom...|自定义...
 Details|本局游戏详情
-Details|本局游戏详情
 Do you want to restart?|你想要重新开始本局吗？
 Game|游戏
 Game Over|游戏结束
