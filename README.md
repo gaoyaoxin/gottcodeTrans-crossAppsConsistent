@@ -19,6 +19,7 @@ https://www.transifex.com/gottcode/
 About|关于
 About &Qt|关于 &Qt
 About Peg-E|关于 Peg-E
+Algorithm|算法
 Application &Language...|程序 &语言...
 Copyright &copy; 2009-%1 Graeme Gott|版权所有 &copy; 2009-%1 Graeme Gott
 Custom...|自定义...
@@ -35,6 +36,7 @@ Question|问题
 Quit|退出程序
 Released under the <a href=%1>GPL 3</a> license|基于 <a href=%1>GPL 3</a> 协议发布
 Restart Game|重新开始
+Seed|种子
 Score|分数
 Scores|分数榜
 Select application language:|选择本游戏的语言:
