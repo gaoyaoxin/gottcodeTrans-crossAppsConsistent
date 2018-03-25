@@ -1,17 +1,17 @@
 # gottcodeTrans-crossAppsConsistent
 https://www.transifex.com/gottcode/
 
-- [ ] [Connectagram](https://www.transifex.com/gottcode/Connectagram/language/zh/)
-- [x] [CuteMaze](https://www.transifex.com/gottcode/CuteMaze/language/zh/)
-- [x] [FocusWriter (co)](https://www.transifex.com/gottcode/FocusWriter/language/zh/)
-- [x] [Gottet](https://www.transifex.com/gottcode/Gottet/language/zh/)
-- [x] [Hexalate](https://www.transifex.com/gottcode/Hexalate/language/zh/)
-- [ ] [Kapow](https://www.transifex.com/gottcode/Kapow/language/zh/)
-- [ ] [NovProg](https://www.transifex.com/gottcode/NovProg/language/zh/)
-- [x] [Peg-E](https://www.transifex.com/gottcode/Peg-E/language/zh/)
-- [ ] [Simsu](https://www.transifex.com/gottcode/Simsu/language/zh/)
-- [ ] [Tanglet](https://www.transifex.com/gottcode/Tanglet/language/zh/)
-- [ ] [Tetzle](https://www.transifex.com/gottcode/Tetzle/language/zh/)
+- [ ] [Connectagram](https://www.transifex.com/gottcode/connectagram/language/zh/)
+- [x] [CuteMaze](https://www.transifex.com/gottcode/cuteMaze/language/zh/)
+- [x] [FocusWriter (co)](https://www.transifex.com/gottcode/focuswriter/language/zh/)
+- [x] [Gottet](https://www.transifex.com/gottcode/gottet/language/zh/)
+- [x] [Hexalate](https://www.transifex.com/gottcode/hexalate/language/zh/)
+- [ ] [Kapow](https://www.transifex.com/gottcode/kapow/language/zh/)
+- [ ] [NovProg](https://www.transifex.com/gottcode/novprog/language/zh/)
+- [x] [Peg-E](https://www.transifex.com/gottcode/eeg-e/language/zh/)
+- [ ] [Simsu](https://www.transifex.com/gottcode/simsu/language/zh/)
+- [ ] [Tanglet](https://www.transifex.com/gottcode/tanglet/language/zh/)
+- [ ] [Tetzle](https://www.transifex.com/gottcode/tetzle/language/zh/)
 
 |||
 -|-
