@@ -9,7 +9,7 @@ https://www.transifex.com/gottcode/
 - [ ] [Kapow](https://www.transifex.com/gottcode/kapow/language/zh/)
 - [ ] [NovProg](https://www.transifex.com/gottcode/novprog/language/zh/)
 - [x] [Peg-E](https://www.transifex.com/gottcode/eeg-e/language/zh/)
-- [ ] [Simsu](https://www.transifex.com/gottcode/simsu/language/zh/)
+- [x] [Simsu](https://www.transifex.com/gottcode/simsu/language/zh/)
 - [ ] [Tanglet](https://www.transifex.com/gottcode/tanglet/language/zh/)
 - [ ] [Tetzle](https://www.transifex.com/gottcode/tetzle/language/zh/)
 
